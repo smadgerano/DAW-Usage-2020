@@ -199,5 +199,15 @@ Oh, and for the record, I have an audio degree from a couple of decades ago, and
 
 Peace, Andy.
 
+#### Notes: 28/06/2020
+
+There's been a few suggestions for other DAWs and their communities that it would've been interesting to hear from, and add to the list. I think I'll just keep them in mind if I do something like this again. But if there are some not listed, let me know!
+
+* Sonar / Cakewalk
+* Reason
+* Sequoia
+
+Thank you all for your kind comments and positive feedback!
+
 [^1]: https://www.merriam-webster.com/dictionary/amateur
 [^2]: https://www.merriam-webster.com/dictionary/professional
