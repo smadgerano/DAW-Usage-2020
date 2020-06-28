@@ -14,7 +14,7 @@ The fascinating thing about that situation is that, for the most part, the same 
 
 ## Definition of "Professionally"
 
-I understand that using the word "professionally" may cause some irritation and frustration. There are many, many people in this industry who have spent decades building their knowledge and businesses around their skills who categorize themselves as "professional" in order to convey a level of technical skill and professionalism. I am in no way comparing an amateur an to a professional in that sense, I was not asking if you are, or consider yourself to be a highly skilled or trained person. I was simply using the word to distinguish between amateurs and professionals in the following ways.
+I understand that using the word "professionally" may cause some irritation and frustration. There are many, many people in this industry who have spent decades building their knowledge and businesses around their skills who categorize themselves as "professional" in order to convey a level of technical skill and business conduct. I am in no way comparing an amateur to a professional in that sense, I was not asking if you are, or consider yourself to be a highly skilled or trained person. I was simply using the word to distinguish between amateurs and professionals in the following ways.
 
 **Amateur**
 : one who engages in a pursuit, study, science, or sport as a pastime rather than as a profession [^1]
@@ -22,7 +22,7 @@ I understand that using the word "professionally" may cause some irritation and 
 **Professional**
 : engaged in by persons receiving financial return [^2]
 
-There are always going to be a huge variety of situations and grey areas, but I chose to make the distinction between an amateur and a professional in this industry by asking if people met either of two criteria, and stipulating that you must have completed either of them at least once.
+There are always going to be a huge variety of situations and grey areas, but I chose to make the distinction between an amateur and a professional for DAW users by asking if people met either of two criteria, and stipulating that you must have completed either of them at least once.
 
 1) That work you do in the DAW will eventually be sold or licensed for money, or
 2) You are paid for your time, which includes using the DAW for a task.
