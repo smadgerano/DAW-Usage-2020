@@ -206,6 +206,7 @@ There's been a few suggestions for other DAWs and their communities that it woul
 * Sonar / Cakewalk
 * Reason
 * Sequoia
+* Sadie
 
 Thank you all for your kind comments and positive feedback!
 
