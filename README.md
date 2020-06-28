@@ -189,9 +189,9 @@ It should also be noted that because the data was collected purely from Reddit p
 
 ## Observations
 
-I'm reluctant to call this section "Conclusion" because I think it should be a starting point for more discussion about how we label ourselves within the industry, what does it mean to be a "professional" in your specific field in 2020? Is it literally just someone whose full time job is working with audio, or is it more than that? What level is it universally accepted amongst your peers that someone has achieve in order to accurately describe themselves as a professional etc, so I've chosen observations instead.
+I'm reluctant to call this section "Conclusion" because I think it should be a starting point for more discussion about how we label ourselves within the industry, what does it mean to be a "professional" in your specific field in 2020? Is it literally just someone whose full time job is working with audio, or is it more than that? What level is it universally accepted amongst your peers that someone has to achieve in order to accurately describe themselves as a professional etc, so I've chosen observations instead.
 
-Even though this been in no way scientific, I think it's obvious to say that there a lot of users who are using their DAWs to make money in some way. What they do and how they do it varies enormously. I also think it's fair to say this has only increased over the last two decades as technology allows more users access to better tools, with greater ease. Whether this is a good or bad thing depends on your perspective - if your livelihood depends on a reputation of being a "professional", and there's an element of scarcity for the talents and standards of work you provide, then a larger pool of people claiming to do the same thing with the same tools can only be seen as competition, and perhaps less capital to go around. This doesn't necessarily mean you automatically think "more people = bad", but it does explain how some people might hold these views.
+Even though this has been in no way scientific, I think it's obvious to say that there a lot of users who are using their DAWs to make money in some way. What they do and how they do it varies enormously. I also think it's fair to say this has only increased over the last two decades as technology allows more users access to better tools, with greater ease. Whether this is a positive or negative thing depends on your perspective - if your livelihood depends on a reputation of being a "professional", and there's an element of scarcity for the talents and standards of work you provide, then a larger pool of people claiming to do the same thing with the same tools can only be seen as competition, and perhaps less capital to go around. This doesn't necessarily mean you automatically think "more people = bad", but it does explain how some people might hold these views.
 
 Ask most people who do make a living in this industry and they'll tell you that you have to diversify in order to survive. With so many people having access to high grade tools and free education than ever before, it's an incredibly competitive area. Other industries combat this through qualification and certification, which is a great tool when it comes making factual choices - is this person qualified to deal with gas plumbing? Should we hire this student after they complete the specific course they're on? - but when it comes to emotions and perception, are these tools any use? Perhaps there should be more focus in our industry on qualifications and certification to distinguish between the levels of work and understanding someone is able to provide, or perhaps that's an outdated perspective as well?
 
@@ -208,7 +208,7 @@ There's been a few suggestions for other DAWs and their communities that it woul
 * Sequoia
 * Sadie
 
-Thank you all for your kind comments and positive feedback!
+Thank you all for your kind comments and positive feedback, it's genuinely warmed my heart.
 
 [^1]: https://www.merriam-webster.com/dictionary/amateur
 [^2]: https://www.merriam-webster.com/dictionary/professional
