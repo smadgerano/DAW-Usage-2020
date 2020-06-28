@@ -155,7 +155,7 @@ Position |. | DAW | Percentage of users
 
 I can understand Pro Tools being ahead here as it's an industry standard, but I'd love to know the reason for Logic being second in this classification?
 
-I think Bitwig gets ranked highly here as because of the modular tools, and how they can be a great way to teach sound design and synthesis basics. Ardour doesn't seep to be used for education (from these responses anyway), which is a shame as it's a perfectly capable bit of software that wouldn't cost institutions any money to use. But both of these arguments could also be explained by low response numbers skewing the results.
+I think Bitwig gets ranked highly here as because of the modular tools, and how they can be a great way to teach sound design and synthesis basics. Ardour doesn't seem to be used in education (from these responses anyway), which is a shame as it's a perfectly capable bit of software that wouldn't cost institutions any money to use. But of course, both of these arguments could also be explained by low response numbers skewing the results.
 
 Position |. | DAW | Percentage of users
 -----|--|-----|------
