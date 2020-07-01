@@ -204,9 +204,10 @@ Peace, Andy.
 There's been a few suggestions for other DAWs and their communities that it would've been interesting to hear from, and add to the list. I think I'll just keep them in mind if I do something like this again. But if there are some not listed, let me know!
 
 * Sonar / Cakewalk
-* Reason
+* Propellerheads Reason
 * Sequoia
 * Sadie
+* Harrison MixBus
 
 Thank you all for your kind comments and positive feedback, it's genuinely warmed my heart.
 
